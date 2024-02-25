@@ -54,6 +54,7 @@
 3. [Icon Finder](https://www.iconfinder.com)
 4. [Material Icon](https://fonts.google.com/icons?selected=Material+Icons)
 5. [Heroicons](https://heroicons.com/)
+6. [for svg icon] ([https://www.svgrepo.com/svg/532555/search](https://www.svgrepo.com/)
 
 ### Fonts
 
